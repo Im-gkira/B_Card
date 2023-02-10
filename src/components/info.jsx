@@ -3,7 +3,7 @@ import React from "react";
 export default function Info(){
     return (
         <section className="info">
-            <img className="profile--img" src="src/assets/hur.jpeg"></img>
+            <img className="profile--img" src="https://i.postimg.cc/4yGcGLWP/hur.jpg"></img>
             <h2>Gurkirat Singh</h2>
             <h5>Software Developer</h5>
             <h6>KieTsukishima</h6>
