@@ -1,0 +1,39 @@
+*{
+  font-family: 'Titillium Web', sans-serif;
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #23252C;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+}
+
+.app--content{
+  width: 40%;
+}
+
+.info{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+}
+
+.about,.interests{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+}
